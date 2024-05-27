@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Bhannat Bhau</title>
+    <link>podcasters.spotify.com/pod/show/bhannat-bhau</link>
+    <description>This is my first podcast.</description>
+    <language>en</language>
+    <copyright>2024 Bhannat Bhau</copyright>
+    <item>
+      <title>आता सोनियाचीही पवारांना सोडचिठ्ठी</title>
+      <link>https://vinayakkale.github.io/podcastfiles/आता सोनियाचीही पवारांना सोडचिठ्ठी.mp3</link>
+      <description>आता सोनियाचीही पवारांना सोडचिठ्ठी</description>
+      <pubDate>Mon, 27 May 2024 12:00:00 GMT</pubDate>
+      <duration>08:17</duration>
+    </item>
+    <item>
+      <title>मोदींनी हे ही वचन पूर्ण केले... बक्षिस मिळणार का</title>
+      <link>https://vinayakkale.github.io/podcastfiles/मोदींनी हे ही वचन पूर्ण केले... बक्षिस मिळणार का.mp3</link>
+      <description>मोदींनी हे ही वचन पूर्ण केले... बक्षिस मिळणार का</description>
+      <pubDate>Mon, 27 May 2024 12:05:00 GMT</pubDate>
+      <duration>11:23</duration>
+    </item>
+  </channel>
+</rss>
